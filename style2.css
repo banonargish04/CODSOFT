@@ -1,0 +1,15 @@
+h1{
+    color:whitesmoke;
+    background-color:lightseagreen; 
+    font-size:70px;
+    font-family:'Cavert',cursive;
+    text-transform:uppercase ;
+    text-align: center;
+    font-weight: bold;
+}
+
+h2{
+    color: lightseagreen;
+    font-size:30px;
+    font-weight: bold ;
+}
